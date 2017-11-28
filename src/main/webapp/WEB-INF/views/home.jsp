@@ -18,5 +18,6 @@
 <a href = "./qna/qnaList">Go Qna</a>
 
 <h3>Master</h3>
+<h3>GITHUB</h3>
 </body>
 </html>
