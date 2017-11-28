@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>
-	Hello world!
+	Hello world! Spring
 </h1>
 
 <img src = "./etc/images/Penguins.jpg">
